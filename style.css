@@ -97,19 +97,18 @@ body{
     }
     
     .pos{
-        display: flex;
-        justify-content: center;
+        margin-left: -180px;
     }
     .bolder{
         margin-top: 45px;
         letter-spacing: 5px;
         font-size: 22px;
         text-align: center;
+        
     }
 
     .pos1{
-        display: flex;
-        justify-content: center;
+       margin-left: -180px ;
     }
     .parag{
         margin-top: 15px;
@@ -124,6 +123,9 @@ body{
         margin-top: 40px;
         padding-left: 50px; 
         text-align: center; 
+        display: flex;
+        justify-content: center;
+        margin-left: -30px ;
     }
  
     .email{
@@ -134,7 +136,7 @@ body{
     .arrow{
         margin-left: -50px;
         width: 60px;
-        height: 65px;
+        height: 60px;
         justify-content: right;
         padding-bottom: 5px;
     }
