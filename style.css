@@ -61,10 +61,10 @@ body{
     border: 0.8px solid hsla(0, 19%, 60%, 0.652);
 }
 .arrow{
-	border-radius: 40px;
-    margin-left: -100px;
+	border-radius: 30px;
+    margin-left: -104px;
     width: 100px;
-    height: 65px;
+    height: 62px;
     justify-content: right;
     padding-bottom: 5px;
     background: linear-gradient(135deg, hsl(0, 80%, 86%), hsl(0, 74%, 74%));
@@ -120,8 +120,8 @@ body{
 
     .looks{
         justify-content: flex-start;
-        margin-top: 40px;
-        padding-left: 50px; 
+        margin-top: 30px;
+        padding-left: 40px; 
         text-align: center; 
         display: flex;
         justify-content: center;
@@ -131,13 +131,15 @@ body{
     .email{
         width: 300px;
         height: 60px;
+        border-radius: 25px;
     }
 
     .arrow{
-        margin-left: -50px;
-        width: 60px;
+        margin-left: -70px;
+        width: 70px;
         height: 60px;
         justify-content: right;
         padding-bottom: 5px;
+        border-radius: 25px;
     }
 }
